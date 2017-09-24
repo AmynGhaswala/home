@@ -1,0 +1,46 @@
+body {
+color: white;
+text-align : justify;
+   font-size: 20pt;
+   line-height: 12pt;
+font-family: Verdana, "Arial Narrow", sans-serif;
+background: url(test.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+H1 {
+font-weight: bold;
+text-align: center
+}
+img {
+ float: left;
+ border-style: solid;
+ border-width: 8px;
+ border-color: red;
+}
+H3 {
+list-style: none!important;
+font-size: 121%;
+list-style-position: inside;
+margin: auto;
+width: 26%;
+list-style-type: circle;
+text-align: right;
+}
+ul {
+list-style: none!important;
+font-size: 121%;
+list-style-position: inside;
+margin: auto;
+width: 26%;
+list-style-type: circle;
+text-align: right;
+}
+p {
+font-size: 16pt;
+}
+a {
+color: green;
+}
